@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "プライバシー一発クリーン",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ワンクリックでクッキー・キャッシュ・履歴を削除。パスワードは守る設定付き。トラッカー嫌いな人に神！",
   "permissions": [
     "browsingData",
