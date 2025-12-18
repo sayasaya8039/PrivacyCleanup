@@ -1,0 +1,39 @@
+# 依存関係
+node_modules/
+.pnpm-store/
+
+# ビルド出力
+PrivacyCleanup/
+*.zip
+
+# 環境変数
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# ログ
+*.log
+npm-debug.log*
+
+# キャッシュ
+.cache/
+*.tsbuildinfo
+
+# note記事（GitHubにアップロードしない）
+articles/
+
+# テスト
+coverage/
+
+# 一時ファイル
+*.tmp
+*.temp
